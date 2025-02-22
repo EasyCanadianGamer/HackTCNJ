@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Untrusted IPs & Latest Analysis</title>
+    <script src="https://cdn.socket.io/4.5.1/socket.io.min.js" 
+            integrity="sha384-p41ZH78S7jRyyk3T8B6tZa8xYzE9M4cfJY4ygPcnlv14cEUM+1Ff84K4av3dr4E0" 
+            crossorigin="anonymous"></script>
+    <script type="text/javascript">
+      var socket = io();
+      socket.on('suspicious_update', function(data) {
+          console.log("Received suspicious_update event:", data.message);
+          // Reload the page to re-render updated information.
+          window.location.reload();
+      });
+    </script>
+  </head>
+  <body>
+    <h1>Untrusted IP Addresses</h1>
+    <ul>
+      {% for ip, timestamp in ips.items() %}
+        <li>{{ ip }} - Last suspicious: {{ timestamp | timestamp_to_str }}</li>
+      {% endfor %}
+    </ul>
+    <h2>Latest Analysis</h2>
+    <pre>{{ analysis }}</pre>
+  </body>
+</html>
