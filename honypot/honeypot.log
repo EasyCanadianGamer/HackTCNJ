@@ -1,0 +1,673 @@
+2025-02-22 17:02:42,304 - Connection attempt from ('192.168.111.14', 49012)
+2025-02-22 17:04:07,623 - Connection attempt from ('192.168.111.153', 58251)
+2025-02-22 17:10:25,943 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:10:45,888 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:11:05,092 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:11:21,728 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:11:27,892 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:11:38,878 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:11:58,016 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:12:06,218 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:12:06,221 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:12:06,236 - Connection attempt from ('192.168.111.153', 58465)
+2025-02-22 17:12:15,828 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:12:32,726 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:12:53,716 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:12:57,887 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:13:10,272 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:13:29,216 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:13:50,975 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:17:25,931 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:17:25,993 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:17:26,989 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:17:30,436 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:17:30,437 - Detected ARP packet from IP 192.168.111.14, MAC 60:57:18:eb:72:e2
+2025-02-22 17:17:30,446 - Connection attempt from ('192.168.111.14', 39964)
+2025-02-22 17:17:31,132 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:17:31,820 - Banned IP 192.168.111.14 attempted connection. Connection closed.
+2025-02-22 17:17:32,900 - Banned IP 192.168.111.14 attempted connection. Connection closed.
+2025-02-22 17:17:36,860 - Banned IP 192.168.111.14 attempted connection. Connection closed.
+2025-02-22 17:17:37,799 - Banned IP 192.168.111.14 attempted connection. Connection closed.
+2025-02-22 17:17:40,596 - Banned IP 192.168.111.14 attempted connection. Connection closed.
+2025-02-22 17:17:40,658 - Detected ARP packet from IP 192.168.111.153, MAC dc:46:28:eb:35:2f
+2025-02-22 17:17:40,660 - Detected ARP packet from IP 192.168.111.153, MAC dc:46:28:eb:35:2f
+2025-02-22 17:17:40,669 - Connection attempt from ('192.168.111.153', 61322)
+2025-02-22 17:17:50,506 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:17:54,977 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:17:57,290 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:17:58,673 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:17:59,836 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:18:03,135 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:18:04,841 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:18:05,523 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:18:05,945 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:18:06,337 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:18:16,007 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:18:16,081 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:18:20,065 - Banned IP 192.168.111.14 attempted connection. Connection closed.
+2025-02-22 17:18:24,989 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:18:25,390 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:18:32,829 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:18:40,756 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:18:41,165 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:18:41,452 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:18:41,888 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:18:43,456 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:18:43,649 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:18:43,711 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:18:43,773 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:18:43,922 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:18:43,979 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:18:47,626 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:18:47,627 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:18:47,627 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:18:47,628 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:18:47,629 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:18:47,629 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:18:51,299 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:18:53,864 - Banned IP 192.168.111.14 attempted connection. Connection closed.
+2025-02-22 17:18:56,511 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:18:58,772 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:19:02,377 - Banned IP 192.168.111.14 attempted connection. Connection closed.
+2025-02-22 17:19:18,741 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:19:23,233 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:19:26,483 - Banned IP 192.168.111.14 attempted connection. Connection closed.
+2025-02-22 17:19:32,684 - Banned IP 192.168.111.153 attempted connection. Connection closed.
+2025-02-22 17:19:34,508 - Banned IP 192.168.111.14 attempted connection. Connection closed.
+2025-02-22 17:19:35,859 - Banned IP 192.168.111.14 attempted connection. Connection closed.
+2025-02-22 17:19:35,877 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:19:35,877 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:19:35,878 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:19:35,878 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:19:35,879 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:19:35,881 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:19:35,881 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:19:35,886 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:19:35,889 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:19:35,892 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:19:35,892 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:19:36,921 - Banned IP 192.168.111.14 attempted connection. Connection closed.
+2025-02-22 17:19:37,954 - Banned IP 192.168.111.14 attempted connection. Connection closed.
+2025-02-22 17:19:46,304 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:20:13,949 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:20:26,509 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:20:40,660 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:21:49,593 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:21:49,595 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:21:49,596 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:21:55,410 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:21:56,517 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:22:13,780 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:22:31,761 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:22:50,399 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:23:38,742 - Detected ARP packet from IP 192.168.111.14, MAC 60:57:18:eb:72:e2
+2025-02-22 17:23:46,688 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:24:05,970 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:24:25,632 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:24:44,283 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:24:56,526 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:25:05,530 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:25:30,650 - Detected ARP packet from IP 192.168.111.14, MAC 60:57:18:eb:72:e2
+2025-02-22 17:25:30,657 - Detected ARP packet from IP 192.168.111.14, MAC 60:57:18:eb:72:e2
+2025-02-22 17:25:30,660 - Connection attempt from IP: 192.168.111.14, MAC: 60:57:18:eb:72:e2
+2025-02-22 17:25:34,696 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:25:34,699 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:25:34,700 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:25:34,728 - Connection attempt from IP: 192.168.111.153, MAC: dc:46:28:eb:35:2f
+2025-02-22 17:25:35,852 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:25:41,627 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:25:59,552 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:25:59,567 - Banned MAC 60:57:18:eb:72:e2 (IP: 192.168.111.14) attempted connection. Connection closed.
+2025-02-22 17:26:05,035 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:26:10,095 - Banned MAC dc:46:28:eb:35:2f (IP: 192.168.111.153) attempted connection. Connection closed.
+2025-02-22 17:26:17,726 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:26:26,528 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:26:40,251 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:27:19,166 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:27:41,939 - Detected ARP packet from IP 192.168.111.14, MAC 60:57:18:eb:72:e2
+2025-02-22 17:27:41,956 - Connection attempt from IP: 192.168.111.14, MAC: 60:57:18:eb:72:e2
+2025-02-22 17:27:45,933 - Detected ARP packet from IP 192.168.111.153, MAC dc:46:28:eb:35:2f
+2025-02-22 17:27:45,944 - Connection attempt from IP: 192.168.111.153, MAC: dc:46:28:eb:35:2f
+2025-02-22 17:27:46,139 - Banned MAC 60:57:18:eb:72:e2 (IP: 192.168.111.14) attempted connection. Connection closed.
+2025-02-22 17:27:56,535 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:28:09,374 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:28:37,242 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:29:26,394 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:29:26,530 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:30:34,537 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:30:56,538 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:32:26,544 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:33:37,052 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:33:56,547 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:34:39,516 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:35:26,545 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:36:34,168 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:36:56,516 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:37:05,706 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:37:40,181 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:38:26,514 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:38:32,232 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:39:40,838 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:39:56,512 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:40:12,394 - Connection attempt from IP: 192.168.111.153, MAC: dc:46:28:eb:35:2f
+2025-02-22 17:40:44,240 - Connection attempt from IP: 192.168.111.106, MAC: a8:3b:76:19:c7:31
+2025-02-22 17:40:48,950 - Banned MAC a8:3b:76:19:c7:31 (IP: 192.168.111.106) attempted connection. Connection closed.
+2025-02-22 17:40:50,218 - Banned MAC a8:3b:76:19:c7:31 (IP: 192.168.111.106) attempted connection. Connection closed.
+2025-02-22 17:40:51,611 - Banned MAC a8:3b:76:19:c7:31 (IP: 192.168.111.106) attempted connection. Connection closed.
+2025-02-22 17:40:53,297 - Banned MAC a8:3b:76:19:c7:31 (IP: 192.168.111.106) attempted connection. Connection closed.
+2025-02-22 17:40:54,596 - Banned MAC a8:3b:76:19:c7:31 (IP: 192.168.111.106) attempted connection. Connection closed.
+2025-02-22 17:40:58,369 - Banned MAC a8:3b:76:19:c7:31 (IP: 192.168.111.106) attempted connection. Connection closed.
+2025-02-22 17:40:59,396 - Banned MAC a8:3b:76:19:c7:31 (IP: 192.168.111.106) attempted connection. Connection closed.
+2025-02-22 17:40:59,857 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:41:00,420 - Banned MAC a8:3b:76:19:c7:31 (IP: 192.168.111.106) attempted connection. Connection closed.
+2025-02-22 17:41:01,442 - Banned MAC a8:3b:76:19:c7:31 (IP: 192.168.111.106) attempted connection. Connection closed.
+2025-02-22 17:41:02,876 - Banned MAC a8:3b:76:19:c7:31 (IP: 192.168.111.106) attempted connection. Connection closed.
+2025-02-22 17:41:04,507 - Banned MAC a8:3b:76:19:c7:31 (IP: 192.168.111.106) attempted connection. Connection closed.
+2025-02-22 17:41:04,788 - Banned MAC a8:3b:76:19:c7:31 (IP: 192.168.111.106) attempted connection. Connection closed.
+2025-02-22 17:41:05,232 - Banned MAC a8:3b:76:19:c7:31 (IP: 192.168.111.106) attempted connection. Connection closed.
+2025-02-22 17:41:05,444 - Banned MAC a8:3b:76:19:c7:31 (IP: 192.168.111.106) attempted connection. Connection closed.
+2025-02-22 17:41:05,720 - Banned MAC a8:3b:76:19:c7:31 (IP: 192.168.111.106) attempted connection. Connection closed.
+2025-02-22 17:41:06,154 - Banned MAC a8:3b:76:19:c7:31 (IP: 192.168.111.106) attempted connection. Connection closed.
+2025-02-22 17:41:26,515 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:41:28,561 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:41:48,719 - Banned MAC a8:3b:76:19:c7:31 (IP: 192.168.111.106) attempted connection. Connection closed.
+2025-02-22 17:41:56,941 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:41:58,996 - Banned MAC a8:3b:76:19:c7:31 (IP: 192.168.111.106) attempted connection. Connection closed.
+2025-02-22 17:42:18,225 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:42:41,996 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:43:33,282 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:44:13,241 - Connection attempt from IP: 192.168.111.153, MAC: dc:46:28:eb:35:2f
+2025-02-22 17:44:15,248 - Banned MAC dc:46:28:eb:35:2f (IP: 192.168.111.153) after warning.
+2025-02-22 17:44:26,512 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:44:31,753 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:44:32,843 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:44:59,566 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:44:59,567 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:44:59,568 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:44:59,772 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:45:00,221 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:45:17,728 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:45:42,665 - Connection attempt from IP: 192.168.111.153, MAC: dc:46:28:eb:35:2f
+2025-02-22 17:45:43,022 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:45:44,675 - Banned MAC dc:46:28:eb:35:2f (IP: 192.168.111.153) after warning.
+2025-02-22 17:45:56,523 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:45:58,178 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:46:32,172 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:46:43,231 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:47:26,526 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:47:29,824 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:48:43,754 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:49:15,657 - Connection attempt from IP: 192.168.111.153, MAC: dc:46:28:eb:35:2f
+2025-02-22 17:49:17,667 - Banned MAC dc:46:28:eb:35:2f (IP: 192.168.111.153) after warning.
+2025-02-22 17:49:17,667 - Error sending banned message: [Errno 32] Broken pipe
+2025-02-22 17:49:25,348 - Connection attempt from IP: 192.168.111.153, MAC: dc:46:28:eb:35:2f
+2025-02-22 17:49:27,354 - Error sending banned message: [Errno 32] Broken pipe
+2025-02-22 17:49:35,988 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:50:48,584 - Detected ARP packet from IP 192.168.111.153, MAC dc:46:28:eb:35:2f
+2025-02-22 17:50:48,599 - Connection attempt from IP: 192.168.111.153, MAC: dc:46:28:eb:35:2f
+2025-02-22 17:50:48,600 - Error sending warning message: 'socket' object has no attribute 'flush'
+2025-02-22 17:50:50,608 - Banned MAC dc:46:28:eb:35:2f (IP: 192.168.111.153) after warning.
+2025-02-22 17:50:50,609 - Error sending banned message: [Errno 32] Broken pipe
+2025-02-22 17:51:05,029 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:51:45,000 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:51:56,520 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:52:10,056 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:52:45,415 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:53:03,639 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:53:18,901 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:53:26,505 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:54:03,183 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:54:45,677 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:54:56,501 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 17:55:14,349 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:55:29,197 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:55:46,093 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:56:01,452 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:57:07,459 - Connection attempt from IP: 192.168.111.153, MAC: dc:46:28:eb:35:2f
+2025-02-22 17:57:09,468 - Banned MAC dc:46:28:eb:35:2f (IP: 192.168.111.153) after warning.
+2025-02-22 17:57:09,469 - Error sending banned message: [Errno 32] Broken pipe
+2025-02-22 17:57:28,747 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:57:46,756 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 17:57:56,508 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 19:19:16,967 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 19:19:50,417 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:20:08,422 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:20:26,775 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:20:32,301 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:20:32,335 - Connection attempt: 192.168.111.153 (dc:46:28:eb:35:2f)
+2025-02-22 19:20:32,651 - Error handling 192.168.111.153: [Errno 54] Connection reset by peer
+2025-02-22 19:20:44,795 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:21:03,738 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:21:16,919 - ARP from 192.168.111.149 (ce:61:d1:26:87:d8)
+2025-02-22 19:21:21,865 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:21:39,787 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:21:46,441 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:21:46,466 - Connection attempt: 192.168.111.153 (dc:46:28:eb:35:2f)
+2025-02-22 19:21:46,782 - Error handling 192.168.111.153: [Errno 54] Connection reset by peer
+2025-02-22 19:22:16,960 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 19:22:37,842 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 19:22:46,928 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 19:23:00,997 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 19:23:33,653 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 19:23:59,870 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 19:24:16,929 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 19:24:25,877 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 19:24:50,767 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 19:25:18,928 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 19:25:45,753 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 19:25:46,940 - Detected ARP packet from IP 192.168.111.149, MAC ce:61:d1:26:87:d8
+2025-02-22 19:26:11,862 - Detected ARP packet from IP 192.168.111.223, MAC 3c:06:30:48:7e:a7
+2025-02-22 19:26:40,791 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:27:16,934 - ARP from 192.168.111.149 (ce:61:d1:26:87:d8)
+2025-02-22 19:27:20,274 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:27:44,852 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:27:46,992 - Connection attempt: 192.168.111.14 (60:57:18:eb:72:e2)
+2025-02-22 19:27:49,087 - Banned 60:57:18:eb:72:e2 (192.168.111.14)
+2025-02-22 19:28:08,087 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:28:35,239 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:28:46,937 - ARP from 192.168.111.149 (ce:61:d1:26:87:d8)
+2025-02-22 19:28:49,833 - Connection attempt: 192.168.111.14 (60:57:18:eb:72:e2)
+2025-02-22 19:28:55,201 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:29:07,407 - Connection attempt: 192.168.111.14 (60:57:18:eb:72:e2)
+2025-02-22 19:29:21,048 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:30:01,716 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:30:01,738 - Connection attempt: 192.168.111.106 (a8:3b:76:19:c7:31)
+2025-02-22 19:30:02,054 - Error handling 192.168.111.106: [Errno 54] Connection reset by peer
+2025-02-22 19:30:05,047 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:30:05,069 - Connection attempt: 192.168.111.153 (dc:46:28:eb:35:2f)
+2025-02-22 19:30:05,488 - Error handling 192.168.111.153: [Errno 54] Connection reset by peer
+2025-02-22 19:30:16,940 - ARP from 192.168.111.149 (ce:61:d1:26:87:d8)
+2025-02-22 19:30:18,678 - Connection attempt: 192.168.111.106 (a8:3b:76:19:c7:31)
+2025-02-22 19:30:18,992 - Error handling 192.168.111.106: [Errno 54] Connection reset by peer
+2025-02-22 19:30:24,803 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:30:56,794 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:31:24,696 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:31:46,940 - ARP from 192.168.111.149 (ce:61:d1:26:87:d8)
+2025-02-22 19:32:34,562 - ARP from 192.168.111.153 (dc:46:28:eb:35:2f)
+2025-02-22 19:32:34,576 - Connection attempt: 192.168.111.153 (dc:46:28:eb:35:2f)
+2025-02-22 19:32:34,888 - Error handling 192.168.111.153: [Errno 54] Connection reset by peer
+2025-02-22 19:32:50,731 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:33:16,960 - ARP from 192.168.111.149 (ce:61:d1:26:87:d8)
+2025-02-22 19:33:17,090 - Connection attempt: 192.168.111.153 (dc:46:28:eb:35:2f)
+2025-02-22 19:33:17,436 - Error handling 192.168.111.153: [Errno 54] Connection reset by peer
+2025-02-22 19:33:33,845 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:34:18,523 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:34:46,949 - ARP from 192.168.111.149 (ce:61:d1:26:87:d8)
+2025-02-22 19:34:47,962 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:35:18,186 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:35:22,596 - Connection attempt: 192.168.65.3 (unknown)
+2025-02-22 19:35:22,918 - Banned unknown (192.168.65.3)
+2025-02-22 19:35:48,894 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:36:16,960 - ARP from 192.168.111.149 (ce:61:d1:26:87:d8)
+2025-02-22 19:36:19,630 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:36:21,073 - ARP from 192.168.111.106 (a8:3b:76:19:c7:31)
+2025-02-22 19:36:21,077 - Connection attempt: 192.168.111.106 (a8:3b:76:19:c7:31)
+2025-02-22 19:36:21,394 - Error handling 192.168.111.106: [Errno 54] Connection reset by peer
+2025-02-22 19:36:23,845 - Connection attempt: 192.168.111.106 (a8:3b:76:19:c7:31)
+2025-02-22 19:36:33,647 - Connection attempt: 192.168.111.106 (a8:3b:76:19:c7:31)
+2025-02-22 19:36:35,733 - Banned a8:3b:76:19:c7:31 (192.168.111.106)
+2025-02-22 19:36:35,734 - Error handling 192.168.111.106: [Errno 32] Broken pipe
+2025-02-22 19:36:35,741 - Connection attempt: 192.168.111.106 (a8:3b:76:19:c7:31)
+2025-02-22 19:36:37,822 - Error handling 192.168.111.106: [Errno 32] Broken pipe
+2025-02-22 19:36:53,425 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:36:56,865 - Connection attempt: 192.168.65.3 (unknown)
+2025-02-22 19:36:58,952 - Banned unknown (192.168.65.3)
+2025-02-22 19:37:46,970 - ARP from 192.168.111.149 (ce:61:d1:26:87:d8)
+2025-02-22 19:37:48,702 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:37:51,739 - Connection attempt: 192.168.65.3 (unknown)
+2025-02-22 19:38:28,051 - ARP from 192.168.111.106 (a8:3b:76:19:c7:31)
+2025-02-22 19:38:28,059 - Connection attempt: 192.168.111.106 (a8:3b:76:19:c7:31)
+2025-02-22 19:38:30,136 - Error handling 192.168.111.106: [Errno 32] Broken pipe
+2025-02-22 19:38:35,806 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:38:37,519 - Connection attempt: 192.168.111.106 (a8:3b:76:19:c7:31)
+2025-02-22 19:38:39,596 - Error handling 192.168.111.106: [Errno 32] Broken pipe
+2025-02-22 19:38:39,608 - Connection attempt: 192.168.65.3 (unknown)
+2025-02-22 19:38:42,195 - Connection attempt: 192.168.111.106 (a8:3b:76:19:c7:31)
+2025-02-22 19:38:44,275 - Error handling 192.168.111.106: [Errno 32] Broken pipe
+2025-02-22 19:38:44,283 - Connection attempt: 192.168.111.106 (a8:3b:76:19:c7:31)
+2025-02-22 19:38:46,369 - Error handling 192.168.111.106: [Errno 32] Broken pipe
+2025-02-22 19:38:46,380 - Connection attempt: 192.168.111.106 (a8:3b:76:19:c7:31)
+2025-02-22 19:38:48,456 - Error handling 192.168.111.106: [Errno 32] Broken pipe
+2025-02-22 19:38:48,468 - Connection attempt: 192.168.111.106 (a8:3b:76:19:c7:31)
+2025-02-22 19:38:50,548 - Error handling 192.168.111.106: [Errno 32] Broken pipe
+2025-02-22 19:38:50,563 - Connection attempt: 192.168.111.106 (a8:3b:76:19:c7:31)
+2025-02-22 19:38:52,580 - Error handling 192.168.111.106: [Errno 32] Broken pipe
+2025-02-22 19:39:03,199 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:39:16,963 - ARP from 192.168.111.149 (ce:61:d1:26:87:d8)
+2025-02-22 19:39:36,222 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:40:03,615 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:40:23,842 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:40:46,965 - ARP from 192.168.111.149 (ce:61:d1:26:87:d8)
+2025-02-22 19:40:50,206 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:41:36,974 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:42:00,321 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:42:16,986 - ARP from 192.168.111.149 (ce:61:d1:26:87:d8)
+2025-02-22 19:42:27,978 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:42:45,559 - Connection attempt: 192.168.65.3 (unknown)
+2025-02-22 19:42:52,241 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:43:27,063 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:43:41,864 - Connection attempt: 192.168.65.3 (unknown)
+2025-02-22 19:43:47,489 - ARP from 192.168.111.149 (ce:61:d1:26:87:d8)
+2025-02-22 19:43:57,824 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:44:21,515 - Connection attempt: 192.168.65.3 (unknown)
+2025-02-22 19:44:29,337 - Banned unknown (192.168.65.3)
+2025-02-22 19:44:31,874 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:44:32,571 - Connection attempt: 192.168.65.3 (unknown)
+2025-02-22 19:44:54,714 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:45:00,329 - Connection attempt: 192.168.65.3 (unknown)
+2025-02-22 19:45:17,511 - ARP from 192.168.111.149 (ce:61:d1:26:87:d8)
+2025-02-22 19:45:33,832 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:46:04,801 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:46:39,876 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:46:47,498 - ARP from 192.168.111.149 (ce:61:d1:26:87:d8)
+2025-02-22 19:47:16,229 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:47:37,731 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:48:17,501 - ARP from 192.168.111.149 (ce:61:d1:26:87:d8)
+2025-02-22 19:48:26,797 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:48:48,296 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:49:17,573 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:49:41,894 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:49:47,510 - ARP from 192.168.111.149 (ce:61:d1:26:87:d8)
+2025-02-22 19:49:50,147 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:50:39,750 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:51:17,509 - ARP from 192.168.111.149 (ce:61:d1:26:87:d8)
+2025-02-22 19:51:22,758 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:51:46,054 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:52:23,751 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:52:47,514 - ARP from 192.168.111.149 (ce:61:d1:26:87:d8)
+2025-02-22 19:52:47,751 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:53:10,858 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:53:40,999 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:54:17,519 - ARP from 192.168.111.149 (ce:61:d1:26:87:d8)
+2025-02-22 19:54:20,680 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:55:22,961 - ARP from 192.168.111.223 (3c:06:30:48:7e:a7)
+2025-02-22 19:55:49,361 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 19:55:49,363 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 19:55:49,560 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 19:55:49,561 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 19:55:49,594 - ARP from 172.23.38.51 (c2:f8:67:03:fb:fc)
+2025-02-22 19:56:46,530 - ARP from 172.23.41.195 (10:b5:88:59:22:e9)
+2025-02-22 19:56:48,505 - ARP from 172.23.38.95 (9a:a7:4c:90:fe:cc)
+2025-02-22 19:57:19,403 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 19:58:42,328 - ARP from 172.23.28.174 (c4:35:d9:aa:b2:22)
+2025-02-22 19:58:49,410 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 19:59:06,552 - ARP from 172.23.16.25 (1c:57:dc:52:75:58)
+2025-02-22 19:59:51,009 - ARP from 172.23.44.112 (2a:92:9f:f4:4d:62)
+2025-02-22 20:00:19,417 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:01:49,422 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:03:19,428 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:03:29,253 - ARP from 172.23.33.82 (86:39:b1:53:9e:49)
+2025-02-22 20:04:49,391 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:05:47,904 - ARP from 172.23.41.38 (84:94:37:e4:c6:38)
+2025-02-22 20:05:58,602 - ARP from 172.23.38.51 (c2:f8:67:03:fb:fc)
+2025-02-22 20:06:19,395 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:06:48,128 - ARP from 172.23.34.56 (c4:35:d9:95:22:3b)
+2025-02-22 20:07:49,400 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:08:54,145 - ARP from 172.23.42.99 (c2:de:b0:63:7b:0d)
+2025-02-22 20:09:19,397 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:10:15,883 - ARP from 172.23.1.18 (28:ff:3c:b5:6c:c8)
+2025-02-22 20:10:49,406 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:11:17,523 - ARP from 172.23.35.167 (74:a6:cd:99:4b:7b)
+2025-02-22 20:11:21,667 - ARP from 172.23.7.63 (50:a6:d8:93:25:ec)
+2025-02-22 20:12:19,402 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:13:08,544 - ARP from 172.23.42.99 (c2:de:b0:63:7b:0d)
+2025-02-22 20:13:49,413 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:14:29,187 - ARP from 172.23.30.140 (50:a6:d8:cc:74:8e)
+2025-02-22 20:15:19,409 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:16:13,776 - ARP from 172.23.38.51 (c2:f8:67:03:fb:fc)
+2025-02-22 20:16:49,411 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:18:19,414 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:19:49,423 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:20:47,392 - ARP from 172.23.20.126 (4e:ef:7d:49:31:cd)
+2025-02-22 20:21:19,427 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:21:23,882 - ARP from 172.23.30.140 (50:a6:d8:cc:74:8e)
+2025-02-22 20:21:24,323 - ARP from 172.23.2.229 (72:97:f8:fe:9b:08)
+2025-02-22 20:22:49,432 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:22:50,522 - ARP from 172.23.16.25 (1c:57:dc:52:75:58)
+2025-02-22 20:23:15,289 - ARP from 172.23.23.128 (d0:03:4b:0a:04:2a)
+2025-02-22 20:24:19,436 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:25:49,442 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:26:29,098 - ARP from 172.23.38.51 (c2:f8:67:03:fb:fc)
+2025-02-22 20:27:08,227 - ARP from 172.23.28.174 (c4:35:d9:aa:b2:22)
+2025-02-22 20:27:19,439 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:28:14,705 - ARP from 172.23.39.6 (76:40:32:26:84:79)
+2025-02-22 20:28:49,450 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:30:19,454 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:31:49,459 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:33:19,465 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:34:49,468 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:36:19,473 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:36:25,220 - ARP from 172.23.19.222 (68:ca:c4:b2:cd:44)
+2025-02-22 20:36:33,606 - ARP from 172.23.56.18 (a2:5d:ca:dc:b4:9a)
+2025-02-22 20:36:44,225 - ARP from 172.23.38.51 (c2:f8:67:03:fb:fc)
+2025-02-22 20:37:04,142 - ARP from 172.23.39.6 (76:40:32:26:84:79)
+2025-02-22 20:37:49,478 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:37:53,573 - ARP from 172.23.41.195 (10:b5:88:59:22:e9)
+2025-02-22 20:39:19,483 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:40:49,488 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:42:19,487 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:43:49,493 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:45:19,501 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:46:43,395 - ARP from 172.23.21.177 (4a:f5:0c:e0:7c:e8)
+2025-02-22 20:46:49,499 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:46:59,454 - ARP from 172.23.38.51 (c2:f8:67:03:fb:fc)
+2025-02-22 20:47:10,994 - ARP from 172.23.19.222 (68:ca:c4:b2:cd:44)
+2025-02-22 20:48:19,498 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:48:57,307 - ARP from 172.23.44.245 (3c:06:30:31:c5:46)
+2025-02-22 20:49:49,507 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:50:20,489 - ARP from 172.23.34.141 (8e:08:f1:0a:3f:96)
+2025-02-22 20:51:19,504 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:51:40,482 - ARP from 172.23.20.126 (4e:ef:7d:49:31:cd)
+2025-02-22 20:51:54,381 - ARP from 172.23.62.4 (84:94:37:d1:9c:27)
+2025-02-22 20:52:49,514 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:53:17,206 - ARP from 172.23.42.99 (c2:de:b0:63:7b:0d)
+2025-02-22 20:53:35,309 - ARP from 172.23.46.243 (ce:c8:21:eb:47:e2)
+2025-02-22 20:54:10,151 - ARP from 172.23.55.100 (1c:57:dc:42:4d:2a)
+2025-02-22 20:54:19,519 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:54:24,334 - ARP from 172.23.42.112 (80:a9:97:3d:76:19)
+2025-02-22 20:55:49,523 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:55:53,152 - ARP from 172.23.33.56 (18:3e:ef:bd:46:dc)
+2025-02-22 20:57:14,676 - ARP from 172.23.38.51 (c2:f8:67:03:fb:fc)
+2025-02-22 20:57:19,501 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 20:58:49,511 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:00:19,515 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:01:49,511 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:02:16,261 - ARP from 172.23.42.99 (c2:de:b0:63:7b:0d)
+2025-02-22 21:02:36,322 - ARP from 172.23.26.141 (68:ca:c4:b0:56:f0)
+2025-02-22 21:03:19,514 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:09:45,693 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:09:45,867 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:09:45,868 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:09:46,822 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:09:46,822 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:09:47,358 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:09:47,359 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:10:35,433 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:10:35,640 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:10:35,641 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:10:36,472 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:10:36,472 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:10:37,111 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:10:37,112 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:10:38,365 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:10:38,426 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:10:38,427 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:10:39,371 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:10:39,371 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:11:25,178 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:11:25,387 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:11:25,402 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:11:26,222 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:11:26,223 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:11:26,842 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:11:26,843 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:11:27,755 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:11:27,774 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:11:27,774 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:11:28,771 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:11:28,772 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:11:29,418 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:11:29,418 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:13:20,487 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:13:20,670 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:13:20,671 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:13:22,155 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:13:22,156 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:13:24,390 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:13:24,416 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:13:24,417 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:13:26,706 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:13:26,707 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:13:27,315 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:13:27,316 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:15:34,345 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:15:34,602 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:15:34,602 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:15:35,418 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:15:35,448 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:15:36,009 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:15:36,010 - ARP from 172.23.63.254 (00:00:5e:00:01:0b)
+2025-02-22 21:42:57,238 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 21:42:57,404 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 21:42:59,715 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 21:42:59,736 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 21:42:59,988 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 21:43:01,536 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 21:43:02,165 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 21:52:04,305 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 21:52:04,347 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 21:52:04,368 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 21:52:04,380 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 21:52:06,784 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 21:52:06,999 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 22:09:28,542 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 22:09:28,564 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 22:09:28,589 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 22:09:30,042 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 22:09:30,671 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 22:09:31,522 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-22 22:26:22,440 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 22:26:22,467 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 22:26:22,490 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 22:26:22,491 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 22:26:24,515 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 22:26:24,821 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 22:43:43,452 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 22:43:43,487 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 22:43:43,500 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 22:43:43,531 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 22:43:45,366 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 22:43:46,003 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:01:13,429 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:01:13,465 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:01:13,483 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:01:14,802 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:01:15,389 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:05:03,395 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:05:03,420 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:05:03,458 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:05:05,020 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:05:05,589 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:21:32,488 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:21:32,494 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:21:32,535 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:21:33,893 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:21:34,365 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:39:06,244 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-22 23:39:06,389 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:39:06,451 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:39:06,478 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:39:07,049 - ARP from 172.16.0.3 (a0:40:a0:66:cb:d7)
+2025-02-22 23:39:08,263 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:39:08,694 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:54:20,427 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:54:20,441 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:54:20,466 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:54:22,366 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-22 23:54:22,937 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 00:12:08,472 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 00:12:08,493 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 00:12:08,511 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 00:12:10,635 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 00:12:11,154 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 00:29:03,487 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 00:29:03,537 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 00:29:03,550 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 00:29:03,581 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 00:29:04,825 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 00:29:05,323 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 00:44:37,402 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 00:44:37,434 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 00:44:37,445 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 00:44:39,691 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 00:44:40,020 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:01:48,357 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:01:48,405 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:01:48,432 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:01:50,088 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:01:50,564 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:18:16,366 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:18:16,441 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:18:16,463 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:18:17,905 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:18:18,521 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:35:10,350 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:35:10,392 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:35:10,437 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:35:10,438 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:35:12,352 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:35:12,694 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:50:59,057 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:50:59,066 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:50:59,089 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:51:00,676 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:51:01,322 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:51:06,347 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 01:51:52,377 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 01:52:28,889 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:52:38,811 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 01:53:24,859 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 01:53:57,250 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 01:53:58,888 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:54:26,126 - ARP from 172.16.0.28 (f2:42:06:86:c7:03)
+2025-02-23 01:54:31,042 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 01:54:55,514 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 01:54:58,051 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 01:55:01,159 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 01:55:03,329 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 01:55:28,893 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:55:38,320 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 01:56:10,765 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 01:56:22,355 - ARP from 172.16.0.28 (f2:42:06:86:c7:03)
+2025-02-23 01:56:43,103 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 01:56:58,895 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:57:15,496 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 01:57:47,822 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 01:58:20,145 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 01:58:28,905 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 01:59:03,427 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 01:59:23,643 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 01:59:25,690 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 01:59:46,622 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 01:59:58,908 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 02:00:29,853 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 02:00:54,380 - ARP from 172.16.0.40 (7a:9e:60:71:a8:50)
+2025-02-23 02:01:08,838 - ARP from 172.16.0.28 (f2:42:06:86:c7:03)
+2025-02-23 02:01:13,030 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 02:01:28,909 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 02:01:56,279 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 02:02:39,491 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 02:02:52,302 - ARP from 172.16.0.28 (f2:42:06:86:c7:03)
+2025-02-23 02:02:58,913 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 02:03:24,548 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 02:04:09,022 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 02:04:28,911 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 02:04:53,504 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 02:05:03,330 - ARP from 172.16.0.28 (f2:42:06:86:c7:03)
+2025-02-23 02:05:37,982 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 02:05:58,913 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 02:06:22,520 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 02:07:07,164 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 02:07:28,913 - ARP from 172.16.0.1 (a0:40:a0:66:8a:be)
+2025-02-23 02:07:51,582 - ARP from 172.16.0.33 (2e:4e:05:1e:e6:6c)
+2025-02-23 02:08:22,421 - ARP from 172.16.0.28 (f2:42:06:86:c7:03)
